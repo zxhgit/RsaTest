@@ -13,7 +13,7 @@ namespace RSATest
             //RsaTestClass.CreateKeys();
             //RsaTestClass.EncryptTest();
             //RsaTestClass.SignatureTest();
-            RsaTestClass.TestHash();
+            //RsaTestClass.TestHash();
         }
     }
 }
